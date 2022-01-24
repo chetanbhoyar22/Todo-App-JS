@@ -2,7 +2,7 @@
 
 **Mobile Responsive design of Todo-App-JS**
 
-Dimension : Responsive - Max-Width: 600px
+Dimension : Responsive - Max-Width : 600px
 
 
 
